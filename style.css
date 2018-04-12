@@ -1,0 +1,194 @@
+.text-white{color: white;}
+
+.text-accent-color{color: rgb(190, 160, 28);}
+
+.background-gray{background-color: 151515;}
+
+.font{
+	font-family: "Helvetica";}
+
+.text{
+	font-size:13px;
+	line-height:16px;}
+
+.title{
+	letter-spacing: 5px;
+	font-size: 14px;}
+
+.float{float: left;}
+
+#top-box{
+	width: 430;
+	height: 262;
+	margin: 44 auto;}
+
+#location-favorite{
+	text-align: center;
+	padding-top: 43;}
+
+#location-line{width: 350}
+
+#no-13-container{
+	width: 257;
+	margin: 30 auto;
+	clear:both;}
+
+#no{font-size:70}
+
+#number-13{
+	font-size:120; 
+	line-height:90%;}
+
+#SayHello{
+	width:598;
+	height: 400;
+	margin: 41 auto;
+	background-image: url("sayhello (1).png");}
+
+#SayHelloText{
+	margin-top: 105;
+	width: 630;
+	text-align: center;}
+
+#working-with-us{
+	width: 630;
+	margin: 0 auto;
+	padding-top: 105;
+	text-align: center;}
+
+#call-to-action{
+	width: 580;
+	margin: 30 auto;
+	text-align: center;}
+
+#get-in-touch{
+	width: 280;
+	height: 60;
+	line-height: 60px;
+	margin: 37 auto;
+	text-align: center;
+	border: solid black;
+	color: black;}
+
+#bottom {
+	height: 526;
+	width: 100%;
+	margin: 0 auto;}
+
+#read-articles {
+	line-height: 200px;
+	color: white;
+	width: 37%;
+	height: 200;
+	text-align: center;}
+
+#vertical-line{
+	margin-top: 15;
+	height:185;
+	border-left: solid;
+	border-left-color: 505050;
+	border-left-width: 1;
+	width: 0;}
+
+#email-sign-up{
+	height: 200;
+	margin-left: 65;
+	width: 57%;}
+
+#newsletter-sign-up{
+	margin-top: 55;}
+
+#sign-up-container{
+	width: 80%;
+	clear: both;}
+
+#sign-up-button{
+	width: 35%;
+	height: 51;
+	line-height: 51px;
+	text-align: center;
+	border: solid white;
+	border-width: 2;
+	margin-left: 5;}
+	
+#info{
+	padding: 3% 0 3% 3%; 
+	clear: both;
+	border-top: 1px solid;
+	border-color: 505050;}
+
+#offices-container{
+	height: 40;
+	font-size: 16px}
+
+#headquarters{
+	width: 38%;
+	font-size: 16px}
+
+#city-container{
+	height: 35;
+	clear: both;}
+
+#edinburgh{
+	width: 38%;}
+
+#address-container{
+	height: 112;}
+
+#productions-contact{
+	padding-top: 13}
+
+#newyork-contact{margin-left: 21.5%}
+
+#contact-us{
+	width: 16%;
+	height: 31;
+	margin-top: 5;
+	line-height:33px;
+	border: solid white;
+	border-width: .016%;
+	text-align: center;
+	font-size: 13px}
+
+div.column{
+	width: 19%;}
+
+input[type=email]{
+	width: 60%;
+	height: 55;
+	margin-width: 65;
+	float: left;
+	box-sizing: border-box;
+	padding: 12 20;}
+
+:-moz-placeholder { /* older Firefox*/
+ font-size:14px;
+}
+
+::-moz-placeholder { /* Firefox 19+ */ 
+ font-size: 14px;
+} 
+
+div.container {
+	width: 100%;
+	clear: both;}
+
+p.link{
+	height: 1000;}
+
+a:link{
+	color: white;
+	text-decoration: none;}
+
+a:visited{
+	color: white;
+	text-decoration: none;}
+
+a:active{
+	color: white;
+	text-decoration: none;}
+
+a:hover{
+	color: white;
+	text-decoration: none;}
+
